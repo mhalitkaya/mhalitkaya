@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mhalitkaya
-- 👀 I’m interested in ... Computer Vision
-- 🌱 I’m currently learning ... sometimes Computer Vision sometimes OOP sometimes Java sometimes Python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... Computer Vision, Computer Networks and Cyber Security
+- 🌱 I’m currently learning ... Computer Networks, Cyber Security and Python
+- 💞️ I’m looking to collaborate on ... (coming soon)
 - 📫 How to reach me ... mhalitkaya@outlook.com.tr
 
 <!---
